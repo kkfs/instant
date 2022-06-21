@@ -1,2 +1,3 @@
-let title;
-title = "Example Title";
+let username;
+username = "kkfs";
+document.getElementById("name").innerHTML = username;
